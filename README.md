@@ -1,2 +1,2 @@
 # Python-tools-to-analyse-genetic-data
-Python programs to retrieve, analyse and process the data stored in the online genetic databases MGI, Ensembl, Uniprot and Unigene.  
+Python programs (and R programs) to retrieve, transform, analyse and validate the ids of mouse genes stored in the online bioinformatics databases MGI, Ensembl, Uniprot and Unigene. Each program is a data analysis tool. After processing data using the tools, the processed data can be used to train machine learning classifiers such as random forest and SVM for predicting the essentialities of the genes.
